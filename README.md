@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Homepage
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Site from my GitHub Projects' Repository._
 
 </header>
 
@@ -20,9 +20,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## Portfolio
 
-_Nice work setting the theme! :sparkles:_
+_MapReduce :sparkles:_
 
 You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
