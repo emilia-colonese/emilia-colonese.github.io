@@ -62,6 +62,3 @@ The code can be seen in `Classification.pdf` file.
   <<< Author notes: Footer >>>
 -->
 
----
-
-</footer>
