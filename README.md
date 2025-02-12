@@ -32,6 +32,10 @@ A tutorial is available on the `MapReduce.pdf` file.
 Create a Data Pipeline for a Web Scrapping Project. \
 The code can be seen in `Web Scrapping.pdf` file. 
 
+### _ML Pipeline Project :sparkles:_
+
+Create a ML Pipeline for an Analytical Project. \
+The code can be seen in `Classification.pdf` file. 
 
 ### Activity: Create your own distributed infrastructure
 
