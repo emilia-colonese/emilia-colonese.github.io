@@ -50,8 +50,8 @@ The code can be seen in `Classification.pdf` file.
 1. Ingest data from your internal relational databese 
 2. Ingest data from external data sources
    
-- Internal source: Relational database `salesDW`. \
-- External source: `social media` files.
+  - Internal source: Relational database `salesDW`. 
+  - External source: `social media` files.
 
 <footer>
 
