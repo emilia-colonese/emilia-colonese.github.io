@@ -43,8 +43,8 @@ The code can be seen in `Web Scrapping.pdf` file.
 
 ### Activity: Create a data pipeline using your distributed infrastructure
 
-Ingest data from your internal relational databese and external data sources as well.
-Internal source: Relational database `salesDW`.
+Ingest data from your internal relational databese and external data sources as well. \
+Internal source: Relational database `salesDW`. \
 External source: `social media` files.
 
 <footer>
