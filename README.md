@@ -53,6 +53,9 @@ The code can be seen in `Classification.pdf` file.
   - Internal source: Relational database `salesDW`. 
   - External source: `social media` files.
 
+### Activity: Create a ML pipeline using your distributed infrastructure
+`todo`
+
 <footer>
 
 <!--
