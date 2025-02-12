@@ -22,11 +22,18 @@ _Site from my GitHub Projects' Repository._
 
 ## Portfolio
 
-_MapReduce :sparkles:_
+_MapReduce Project:sparkles:_
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
+Install and configure an open and free distributed enviroment: Apache Hadoop. 
+A tutorial can be accessed in `hadoop.pdf` file. 
 
-### :keyboard: Activity: Create your homepage
+_Data Pipeline Project:sparkles:_
+
+Create a Data Pipeline for a Web Scrapping Project.
+The code can be seen in `Web Scrapping.pdf` file. 
+
+
+### :keyboard: Activity: Create your pipeline
 
 1. Browse to the `index.md` file in the `my-pages` branch.
 1. In the upper right corner, open the file editor.
@@ -43,9 +50,5 @@ You can customize your homepage by adding content to either an `index.md` file o
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
