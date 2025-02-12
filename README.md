@@ -22,12 +22,12 @@ _Site from my GitHub Projects' Repository._
 
 ## Portfolio
 
-_MapReduce Project:sparkles:_
+_MapReduce Project :sparkles:_
 
 Install and configure an open and free distributed enviroment: Apache Hadoop. 
 A tutorial can be accessed in `hadoop.pdf` file. 
 
-_Data Pipeline Project:sparkles:_
+_Data Pipeline Project :sparkles:_
 
 Create a Data Pipeline for a Web Scrapping Project.
 The code can be seen in `Web Scrapping.pdf` file. 
